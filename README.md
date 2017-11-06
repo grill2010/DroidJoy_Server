@@ -15,3 +15,5 @@ You can decide if you want to emulate a DInput or a XInput device.</p>
 * Be sure that your PC and your Smartphone are registered in the same network.
 * If you want to use Bluetooth to establish a connection be sure your PC is set to discoverable.
 * Be sure the DroidJoy Server and the DroidJoy App are using the same connection ports (default behaviour).
+
+Many thanks to _Shaul Eizikovich_ and _Benjamin Höglinger_ for providing the virtual gamepad driver [vJoy](http://vjoystick.sourceforge.net/site/) and [ScpVBus](https://github.com/shauleiz/ScpVBus).
