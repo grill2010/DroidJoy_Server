@@ -1,9 +1,9 @@
 DroidJoy Server!
 ===================
 
-<p>With the DroidJoy Server you can fully emulate up to 4 physically attached gamepads.</br>
-You can decide if you want to emulate a DInput or a XInput device.</br>
-For further information, please have a look at the [Wiki page](https://github.com/grill2010/DroidJoy_Server/wiki) .</p>
+With the DroidJoy Server you can fully emulate up to 4 physically attached gamepads.  
+You can decide if you want to emulate a DInput or a XInput device.  
+For further information, please have a look at the [Wiki page](https://github.com/grill2010/DroidJoy_Server/wiki).
 
 > **Note:**
 > - In order to control the DroidJoy Server you have to download the DroidJoy [full](https://play.google.com/store/apps/details?id=com.grill.droidjoy) or [lite](https://play.google.com/store/apps/details?id=com.grill.droidjoy_demo) version.
